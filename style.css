@@ -1,0 +1,26 @@
+div {
+    height: 50px;
+    background-color: red;
+    margin: 20px;
+    color: white;
+}
+
+#first {
+    opacity: 1;
+}
+
+#second {
+    opacity: 0.8;
+}
+
+#third {
+    opacity: 0.5;
+}
+
+#fourth {
+    opacity: 0.3;
+}
+
+#fifth {
+    opacity: 0;
+}
